@@ -1,0 +1,4 @@
+the fun stuff! keep all success criteria toggles to FALSE
+1DCNN.py is the main script with grf + JK
+test1DCNN_jkonly.py is for training on joint kinematics only, so performance between grf + JK and JK only could be compared. 
+1DCNN_JKonly_sc.py is for other success criteria. do not touch
