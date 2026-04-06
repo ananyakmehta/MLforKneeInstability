@@ -2,4 +2,6 @@ the fun stuff! keep all success criteria toggles to FALSE
 verbose training was to easily tranfer ouputted training metrics to data tables without having to parse through uneccessarily logs, doesn't affect anything
 1DCNN.py is the main script with grf + JK
 test1DCNN_jkonly.py is for training on joint kinematics only, so performance between grf + JK and JK only could be compared. 
-1DCNN_JKonly_sc.py is for other success criteria. do not touch
+
+test1DCNN_JKonly_sc.py is for other success criteria. do not touch
+ignore id_repr_test.py, was also for success critiera.
