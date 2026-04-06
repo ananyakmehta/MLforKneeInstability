@@ -1,1 +1,2 @@
-e
+runs inverse dynamics using opensim (setup needed) using osim model/setup files + base running/grf - uses one file to create perturbations across severity levels. 
+output is groups grf, ik, and sto data (groups encoded in file name). use npexport version to use directly in CNN script
