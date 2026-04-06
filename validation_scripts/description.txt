@@ -1,0 +1,2 @@
+used to validate results from various scripts to make sure nothing went wrong in creation - was more for research purposes when originally creating, but double checking never hurt anyone
+validate_sto makes sure sto files are valid sto files (what you would want most of the time), validate_preCNN makes sure severity levels are distinguishable and runs LogReg to make sure some separability exists between severity levels
